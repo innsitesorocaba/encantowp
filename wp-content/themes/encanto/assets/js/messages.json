@@ -1,0 +1,9 @@
+{
+	"errorForm": {
+		"message": "Olá, houve um erro ao enviar seu e-mail, poderia vericar por favor os campos?"
+	},
+
+	"successForm": {
+		"message": "Seu e-mail foi enviado com sucesso"
+	}
+}
